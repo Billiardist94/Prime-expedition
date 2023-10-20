@@ -1666,7 +1666,7 @@ body {
 }
 
 .contacts .contacts__row .contacts__body .contacts__text ul .contacts__phones-service ul li:first-of-type:before {
-  content: url("../../images/telephone.svg");
+  content: url("../../images/mobile_vector-2.svg");
   margin-right: 8.25px;
 }
 
@@ -1706,7 +1706,7 @@ body {
 }
 
 .contacts .contacts__row .contacts__body .contacts__text ul .contacts__phones-sales ul li:first-of-type:before {
-  content: url("../../images/telephone.svg");
+  content: url("../../images/mobile_vector-2.svg");
   margin-right: 8.25px;
 }
 
